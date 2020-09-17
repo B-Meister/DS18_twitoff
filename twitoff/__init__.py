@@ -1,4 +1,4 @@
-""" Entry point for Twitoff. """
+""" Entry point for Twitoff """
 
 from .app import create_app
 
